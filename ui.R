@@ -25,7 +25,7 @@ shinyUI(pageWithSidebar( headerPanel("All Businesses on Yelp"),
                               
                                    helpText("Help:
                                                    You may use this map to view top-business for any business category
-                                                   or to see trending businesses by using above Sliders. ")        
+                                                   or to see trending businesses by using above sliders. ")        
                          ),
                          
                          
